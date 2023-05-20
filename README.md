@@ -57,4 +57,4 @@
 1. Разработать логику работы с двумя таблицами. 
 2. В соответствии с заданием написать запросы для выборки информации
 
-[Ссылка на проект](https://github.com/sergeikononov/portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203)
+[Ссылка на проект](https://github.com/sergeikononov/Portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%205)
